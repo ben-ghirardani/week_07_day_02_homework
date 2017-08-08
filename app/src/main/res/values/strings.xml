@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string name="write_here">Write here</string>
+    <string name="press">Press the button</string>
+    <string name="answer">Answer</string>
+
+</resources>
